@@ -1,3 +1,9 @@
+### Notice!!
+
+The codebase of VEGR will be publicly released upon the acceptance of the corresponding paper submission. Our goal is to promote transparency, reproducibility, and further development of voice-aware recommendation techniques.
+
+Please stay tuned — we look forward to sharing our implementation soon.
+
 # VEGR
 Voice Empowered Graph Representation for Personalized Recommendation Assistants
 
